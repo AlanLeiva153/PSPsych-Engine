@@ -1,0 +1,21 @@
+# Binarios de PSP y compilación
+*.elf
+*.PBP
+*.SFO
+*.o
+*.a
+
+# Archivos generados por el motor (assets convertidos)
+*.pcm
+*.chr
+*.tex
+*.img
+
+# Configuraciones locales
+modlist.txt
+currentmod.txt
+highscores.json
+
+# Carpetas de prueba o basura
+sasasas/
+build/
